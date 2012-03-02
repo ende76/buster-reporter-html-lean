@@ -1,6 +1,6 @@
 {
 	"name": "html-lean",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Buster test reporter: A leaner version of the html reporter",
 	"author": "Thomas Pickert <thpickert@gmail.com>",
 	"main": "./lib/html-lean",
@@ -9,12 +9,10 @@
 		"url": "git://github.com/ende76/html-lean.git"
 	},
 	"dependencies": {
-		"buster": "*",
-		"jsdom": "*"
+		"buster": "*"
 	},
 	"devDependencies": {
-		"buster": "*",
-		"jsdom": "*"
+		"buster": "*"
 	},
 	"optionalDependencies": {},
 	"engines": {
