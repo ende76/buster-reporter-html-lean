@@ -1,0 +1,22 @@
+.buster-test h3.success:before {
+    color: #3c3;
+    content: "✓";
+    padding-right: 6px;
+}
+
+.buster-test .timeout h3,
+.buster-test .failure h3,
+.buster-test .error-message,
+.buster-test .stats.failure {
+    color: #c33;
+}
+
+.buster-test  h3.error{
+    color: #cc3;
+}
+
+.buster-test h3.failure:before,
+.buster-test h3.error:before {
+    content: "✖";
+    padding-right: 6px;
+}
