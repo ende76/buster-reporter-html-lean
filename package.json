@@ -1,7 +1,7 @@
 {
 	"name": "html-lean",
 	"version": "0.0.1",
-	"description": "Buster test repoter: A leaner version of the html reporter",
+	"description": "Buster test reporter: A leaner version of the html reporter",
 	"author": "Thomas Pickert <thpickert@gmail.com>",
 	"main": "./lib/html-lean",
 	"repository": {
