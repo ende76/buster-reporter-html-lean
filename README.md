@@ -9,6 +9,7 @@ Clone the repository in your local workspace and use npm to link it:
 git clone git://github.com/ende76/buster-reporter-html-lean.git
 cd buster-reporter-html-lean
 sudo npm link
+
 </pre>
 
 ## Usage ##
@@ -16,5 +17,6 @@ sudo npm link
 When running your tests with buster, use
 <pre>
 buster test -r html-lean
+
 </pre>
 to use this reporter.
