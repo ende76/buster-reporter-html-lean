@@ -6,8 +6,8 @@ This is an alternative html reporter for http://busterjs.org that generates brie
 
 Clone the repository in your local workspace and use npm to link it:
 <pre>
-git clone git://github.com/ende76/buster-reporter-html-lean.git
-cd buster-reporter-html-lean
+git clone git://github.com/ende76/buster-reporter-html-lean.git html-lean
+cd html-lean
 sudo npm link
 
 </pre>
